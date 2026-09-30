@@ -1,3 +1,4 @@
 <Solution>
-  <Project Path="Monopoly/Monopoly.csproj" />
+  <Project Path="Monopoly.Core/Monopoly.Core.csproj" Id="926bcc82-837f-45b9-8e72-eeaafd8a0be7" />
+  <Project Path="Monopoly/Monopoly.UI.csproj" />
 </Solution>
