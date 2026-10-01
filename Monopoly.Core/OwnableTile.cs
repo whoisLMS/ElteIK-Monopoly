@@ -9,9 +9,7 @@ namespace Monopoly.Core {
         public bool IsMortgaged;
         public Player Owner;
 
-        public int CalculateRent(Game game) {
-            throw new NotImplementedException();
-        }
+        public abstract int CalculateRent(Game game);
 
         public void Mortgage() {
             throw new NotImplementedException();
