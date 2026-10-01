@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Monopoly.Core {
+namespace Monopoly.Core.Tiles {
     public class PropertyTile : OwnableTile {
         public TileColorGroup ColorGroup;
         public int[] Rents;

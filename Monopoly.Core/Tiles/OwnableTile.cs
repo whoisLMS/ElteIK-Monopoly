@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Monopoly.Core {
+namespace Monopoly.Core.Tiles {
     public abstract class OwnableTile : Tile {
         public int Price;
         public int MortgageValue;

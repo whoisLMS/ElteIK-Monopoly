@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Monopoly.Core {
+namespace Monopoly.Core.Tiles {
     public class FreeParkingTile : Tile {
         public override void OnLanded(Player player, Game game) {
             throw new NotImplementedException();

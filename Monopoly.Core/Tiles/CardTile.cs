@@ -2,8 +2,10 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Monopoly.Core {
-    public class GoTile : Tile {
+namespace Monopoly.Core.Tiles {
+    public class CardTile : Tile {
+
+        public DeckType deckType;
         public override void OnLanded(Player player, Game game) {
             throw new NotImplementedException();
         }

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Monopoly.Core {
+namespace Monopoly.Core.Tiles {
     public enum TileColorGroup {
         Brown,
         LightBlue,
